@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+tensorflow==2.0.8
+opencv-python
+packaging
+
